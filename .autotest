@@ -1,0 +1,5 @@
+require 'autotest/fsevent'
+require 'autotest/growl'
+AUTOFEATURE=false
+RSPEC=true
+
