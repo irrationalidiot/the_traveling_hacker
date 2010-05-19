@@ -1,4 +1,4 @@
-require 'trip.rb'
+require 'trip'
 
 describe Trip do
   before(:each) do
